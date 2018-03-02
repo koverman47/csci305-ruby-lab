@@ -1,24 +1,28 @@
-Your name
+Kirby Overman
 CSCI-305
 
-10.
+10. The main 'problem' that I see with the song titles is that they become repetitive after the first two or three words. Some phrase that repeats an awful lot is 'the world is a little girl in...'. This phrase has some really common wordswords that are likely to come up very frequently.
 
-14.
+14. So many titles devolve into repeating patterns because many titles have common propositions or the seemingly ubiquitous combination 'you are'. When one of these appears, they simply repeat in a loop, i.e. 'you' leads to 'are' and 'are' leads back to 'you'.
 
-15.
+15. Amore terminates after only six words.
 
-16.
+16. In order to fix then repetitive phrasing problem, I just changed my song variable from string to array, and then checked for inclusion. In other words, I append each word to an array, but before appending, I check to see whether or not the word is already in the array. If the word is already included, then I break from the loop and return the song up to that point. 
 
-19.
+17. montana sacra nova scotia
 
-20.
+18. bob marley vs world is in my heart
 
-21.
+19. bob marley vs world is my heart. My solution to the repetitive phrasing problem is deterministic.
 
-22.
+20. My favorite song title is 'bands interlude 2 b flat major op 11 bagatelles solo tu amor de la vida es el'
 
-23.
+21. What I like about ruby is the implementation of global variables for errors and regex. It makes it especially useful for a lab like this and for any kind of debugging.
 
-24.
+22. I dislike the looping structures of ruby. Admittedly this is because it is unique relative to the other languages that I am familiar with. That being stated, I don't feel as if anything is gained by the .each style loop structures. It feels unncessary.
 
-25.
+23. I did enjoy this lab. My favorite part was easily developing the regex for the first part of the lab. Coming up with the regex is simply a fun puzzle.
+
+24. I spent about eight hours on this lab.
+
+25. I likely won't be using Ruby again. It is nothing against the language itself, its just that I work primarily with embedded systems, robotics, and dynamic control systems. As a result, I spend most of my time with C and C++. When I do find need for a scripting language, I generally resort to python because it has more developed mathematical and scientific libraries than Ruby while also being compatible with a framework that I frequently work with.
